@@ -1,0 +1,14 @@
+[{
+    "prodact" : "omo" ,
+    "prix"     : 20    
+},
+{
+    "prodact" : "ariel" ,
+    "prix"     : 35    
+
+},
+{
+    "prodact" : "tidie" ,
+    "prix"     : 55    
+}
+]
